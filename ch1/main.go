@@ -1,6 +1,9 @@
 package main
 
+import "fmt"
+
 func main() {
+	fmt.Println("Welcome to chapter 1!")
 	// Example #1.
 	// var data int
 	// go func() {
